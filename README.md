@@ -8,7 +8,7 @@ Here are some of my featured projects 👇
 
 ---
 
-## 🔹 [Vastian-Billing-Churn-Analysis](https://github.com/dan-t-data/Vastian-Billing-Churn-Analysis)  
+## 🔹 [Vastian Billing Churn Analysis](https://github.com/dantapia17/Vastian-Billing-Churn-Analysis)  
 *(Built with synthetic data, modeled on real work at Vastian)*  
 - **Tools:** Excel | SQL | Tableau  
 - **Impact:** Identified ~$380M ARR erosion from billing-driven churn.  
@@ -16,16 +16,14 @@ Here are some of my featured projects 👇
 
 ---
 
-## 🔹 [InlineTech-Revenue-Retention-Insights](https://github.com/dan-t-data/InlineTech-Revenue-Retention-Insights)  
+## 🔹 [InlineTech Revenue & Retention Insights](https://github.com/dantapia17/InlineTech-Revenue-Retention-Insights)  
 *(Built with synthetic data, modeled on real work at Deloitte)*  
 - **Tools:** Excel | SQL | Power BI  
 - **Impact:** Diagnosed post-pandemic slowdown; recommended loyalty expansion, product bundling, and channel diversification.  
-- **Deliverable:** [Power BI Dashboard (.pbix)](https://github.com/dan-t-data/InlineTech-Revenue-Retention-Insights/tree/main/dashboard)  
+- **Deliverable:** [Power BI Dashboard](https://github.com/dantapia17/InlineTech-Revenue-Retention-Insights/blob/main/dashboard/README.md)  
 
 ---
 
 ## 📫 How to Reach Me  
 - 📧 Email: **danieltapiahz1@gmail.com**  
 - 💼 LinkedIn: [linkedin.com/in/daniel-tapia](https://www.linkedin.com/in/daniel-tapia)  
-
----
