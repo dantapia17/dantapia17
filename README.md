@@ -1,6 +1,5 @@
 # 👋 Hi, I’m Daniel Tapia  
-
-Data & Revenue Operations professional with 5+ years in SaaS and FinTech.  
+ 
 Skilled in **SQL, Excel, Tableau, Power BI, and ERP systems**. I specialize in turning billing and payments data into actionable insights that protect revenue and drive growth.  
 
 📊 Featured projects below 👇  
