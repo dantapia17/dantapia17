@@ -1,17 +1,10 @@
 # 👋 Hi, I’m Daniel Tapia  
 
-I’m a data-focused professional with experience in SaaS billing, finance, and analytics.  
-I enjoy turning messy real-world data into actionable insights using **Excel, SQL, and BI tools** like Tableau and Power BI.  
+With 5+ years in SaaS and FinTech, I specialize in **payments, billing, accounts receivable, and revenue operations**, streamlining the order-to-cash cycle and ensuring ASC 606 compliance.  
 
----
+Skilled in **SQL, Excel, Tableau, Power BI, and ERP systems**, I bring a strategic mindset, partnering with finance, operations, and business teams to support **data-driven decision-making, process improvements, and scalable growth initiatives**.  
 
-## 🔧 Skills & Tools  
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+Here are some of my featured projects 👇  
 
 ---
 
@@ -36,4 +29,3 @@ I enjoy turning messy real-world data into actionable insights using **Excel, SQ
 - 💼 LinkedIn: [linkedin.com/in/daniel-tapia](https://www.linkedin.com/in/daniel-tapia)  
 
 ---
-
