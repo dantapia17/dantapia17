@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Daniel Tapia  
  
-Skilled in **SQL, Excel, Tableau, Power BI, and ERP systems**. I specialize in turning billing and payments data into actionable insights that protect revenue and drive growth.  
+Skilled in **SQL, Excel, Tableau, Power BI, and ERP systems**. I specialize in turning revenue, billing, accounts receivable, and payments data into actionable insights that protect revenue and drive growth.  
 
 📊 Featured projects below 👇  
 ---
