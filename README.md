@@ -1,11 +1,9 @@
 # 👋 Hi, I’m Daniel Tapia  
 
-With 5+ years in SaaS and FinTech, I specialize in **payments, billing, accounts receivable, and revenue operations**, streamlining the order-to-cash cycle and ensuring ASC 606 compliance.  
+Data & Revenue Operations professional with 5+ years in SaaS and FinTech.  
+Skilled in **SQL, Excel, Tableau, Power BI, and ERP systems** — turning billing and payments data into insights that protect revenue and drive growth.  
 
-Skilled in **SQL, Excel, Tableau, Power BI, and ERP systems**, I bring a strategic mindset, partnering with finance, operations, and business teams to support **data-driven decision-making, process improvements, and scalable growth initiatives**.  
-
-Here are some of my featured projects 👇  
-
+📊 Featured projects below 👇  
 ---
 
 ## 🔹 [Vastian Billing Churn Analysis](https://github.com/dantapia17/Vastian-Billing-Churn-Analysis)  
