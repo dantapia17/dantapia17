@@ -26,4 +26,4 @@ Here are some of my featured projects 👇
 
 ## 📫 How to Reach Me  
 - 📧 Email: **danieltapiahz1@gmail.com**  
-- 💼 LinkedIn: [linkedin.com/in/daniel-tapia](https://www.linkedin.com/in/daniel-tapia)  
+- 💼 LinkedIn: [linkedin.com/in/daniel-tapia](https://www.linkedin.com/in/daniel-tapiah)  
