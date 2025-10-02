@@ -17,7 +17,7 @@ Featured projects below 👇
 *(Built with synthetic data, modeled on real work at Deloitte)*  
 - **Tools:** Excel | MySQL | Power BI  
 - **Impact:** Diagnosed post-pandemic slowdown; recommended loyalty expansion, product bundling, and channel diversification.  
-- **Deliverable:** [Power BI Dashboard](https://github.com/dantapia17/InlineTech-Revenue-Retention-Insights/blob/main/dashboard/README.md)  
+- **Deliverable:** [Power BI Dashboard](https://github.com/dantapia17/InlineTech-Revenue-Retention-Insights/blob/main/dashboard)  
 
 ---
 
