@@ -2,7 +2,7 @@
 
 I bridge finance, analytics, and operations, using SQL, Excel, Tableau, Power BI, and ERP systems to optimize workflows and deliver measurable business impact.
 
-Check out some of my projects below 👇  
+Check out some projects based on actual work I’ve done👇 
 ---
 
 ## 🔹 [Vastian Billing Churn Analysis](https://github.com/dantapia17/Vastian-Billing-Churn-Analysis)  
