@@ -1,9 +1,8 @@
-# 👋 Hi, I’m Daniel Tapia  
+# 👋 Hi, I’m Daniel  
 
-I’m a data-driven professional with expertise in **SQL, Excel, Tableau, Power BI, and ERP systems**.  
-I specialize in turning **billing, payments, and revenue operations data** into actionable insights that improve compliance, efficiency, and growth.  
+I bridge finance, analytics, and operations, using SQL, Excel, Tableau, Power BI, and ERP systems to optimize workflows and deliver measurable business impact.
 
-Featured projects below 👇  
+Check out some of my projects below 👇  
 ---
 
 ## 🔹 [Vastian Billing Churn Analysis](https://github.com/dantapia17/Vastian-Billing-Churn-Analysis)  
@@ -22,5 +21,5 @@ Featured projects below 👇
 
 ---
 
-## 📫 How to Reach Me  
+## How to Reach Me  
 - 📧 Email: **danieltapiahz1@gmail.com**  
