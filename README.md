@@ -9,7 +9,7 @@ Check out some projects based on actual work I’ve done👇
 *(Built with synthetic data, modeled on real work at Vastian)*  
 - **Tools:** Excel | PostgreSQL | Tableau  
 - **Impact:** Uncovered ~$380M ARR loss tied to billing friction (manual payments, late invoices, renewal risk). 
-- **Deliverable:** [Interactive Tableau Dashboard](https://public.tableau.com/views/SaaSBillingChurnDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- **Deliverable:** [Tableau Dashboard](https://public.tableau.com/views/SaaSBillingChurnDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
