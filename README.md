@@ -5,7 +5,7 @@ I bridge finance, analytics, and operations, using SQL, Excel, Tableau, Power BI
 Check out some projects based on actual work I’ve done👇 
 ---
 
-## 🔹 [Billing Churn Analysis](https://github.com/dantapia17/Vastian-Billing-Churn-Analysis)  
+## 🔹 [Billing Operations Churn Analysis](https://github.com/dantapia17/Vastian-Billing-Churn-Analysis)  
 *(Built with synthetic data, modeled on real work at Vastian)*  
 - **Tools:** Excel | PostgreSQL | Tableau  
 - **Impact:** Uncovered ~$380M ARR loss tied to billing friction (manual payments, late invoices, renewal risk). 
@@ -13,7 +13,7 @@ Check out some projects based on actual work I’ve done👇
 
 ---
 
-## 🔹 [Revenue & Retention Insights](https://github.com/dantapia17/InlineTech-Revenue-Retention-Insights)  
+## 🔹 [Product Revenue & Retention Insights](https://github.com/dantapia17/InlineTech-Revenue-Retention-Insights)  
 *(Built with synthetic data, modeled on real work at Deloitte)*  
 - **Tools:** Excel | MySQL | Power BI  
 - **Impact:** Diagnosed post-pandemic slowdown; recommended loyalty expansion, product bundling, and marketing channel diversification.  
