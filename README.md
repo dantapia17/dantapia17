@@ -13,7 +13,7 @@ Check out some projects based on actual work I’ve done👇
 
 ---
 
-## 🔹 [Product Revenue & Retention Insights](https://github.com/dantapia17/InlineTech-Revenue-Retention-Insights)  
+## 🔹 [Revenue & Retention Insights](https://github.com/dantapia17/InlineTech-Revenue-Retention-Insights)  
 *(Built with synthetic data, modeled on real work at Deloitte)*  
 - **Tools:** Excel | MySQL | Power BI  
 - **Impact:** Diagnosed post-pandemic slowdown; recommended loyalty expansion, product bundling, and marketing channel diversification.  
