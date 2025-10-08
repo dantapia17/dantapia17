@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Daniel  
 
-I bridge finance, analytics, and operations, using SQL, Excel, Tableau, Power BI, and ERP systems to optimize workflows and deliver measurable business impact.
+I bridge finance, analytics, and operations data, using SQL, Excel, Tableau, Power BI, and ERP systems to optimize workflows and deliver measurable business impact.
 
 Check out some projects based on actual work I’ve done👇 
 ---
