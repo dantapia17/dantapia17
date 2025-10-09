@@ -5,7 +5,7 @@ I bridge finance, analytics, and operations data, using SQL, Excel, Tableau, Pow
 Check out some projects based on actual work I’ve done👇 
 ---
 
-## 🔹 [Billing Operations Churn Analysis](https://github.com/dantapia17/Vastian-Billing-Churn-Analysis)  
+## 🔹 [Churn & Billing Performance Analysis](https://github.com/dantapia17/Vastian-Billing-Churn-Analysis)  
 *(Built with synthetic data, modeled on real work at Vastian)*  
 - **Tools:** Excel | PostgreSQL | Tableau  
 - **Impact:** Uncovered ~$380M ARR loss tied to billing friction (manual payments, late invoices, renewal risk). 
