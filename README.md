@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Daniel  
 
-With 5+ years of experience, I specialize in **billing operations, revenue analytics, and pricing strategy** transforming complex financial data into insights that improve accuracy, efficiency, and profitability.  
+I specialize in **billing operations, revenue analytics, and pricing strategy** transforming complex financial data into insights that improve accuracy, efficiency, and profitability.  
 
 I use **SQL, Excel, Tableau, Power BI, and ERP systems** to streamline processes, uncover trends, and support data-driven decisions across teams.  
 
