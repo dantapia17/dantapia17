@@ -1,6 +1,8 @@
 # 👋 Hi, I’m Daniel  
 
-I bridge finance, analytics, and operations data, using SQL, Excel, Tableau, Power BI, and ERP systems to optimize workflows and deliver measurable business impact.
+With 5+ years of experience, I specialize in **billing operations, revenue analytics, and pricing strategy** transforming complex financial data into insights that improve accuracy, efficiency, and profitability.  
+
+I use **SQL, Excel, Tableau, Power BI, and ERP systems** to streamline processes, uncover trends, and support data-driven decisions across teams.  
 
 Check out some projects based on actual work I’ve done👇 
 ---
